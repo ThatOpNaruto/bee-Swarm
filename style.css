@@ -1,0 +1,68 @@
+body {
+    text-align:center;
+    
+    
+  }
+  .Menu1 {
+    float:left;
+    list-style:none;
+    z-index:10;
+    cursor:pointer;
+    top:50;
+    left:150;
+    color:red;
+    position:fixed;
+    
+  }
+  .links {
+    float:left;
+    color:green;
+    padding-bottom:5px;
+    padding-top:7px;
+    padding-left:9px;
+     padding-right:9px;
+    font-sizeL:30px;
+    
+  }
+  #Home {
+    background: linear-gradient(#f0fc03 0%,#f20a2d 100%);
+    
+    
+  }
+  h1{
+    size:200;
+    
+  }
+  #FuzzyBee1{
+    height:300px;
+    width:300px;
+    
+  }
+  #Bee {
+    background:linear-gradient(#807466 0%,#6bb39c 100%)
+    
+    
+  }
+  .Link:Hover {
+    background-color:black;
+    font-size:35px;
+    
+  }
+  
+  #Bear {
+    background:linear-gradient(#fff700 0%,#db4dc4 100%)
+    
+    
+  }
+  #BlackBear{
+    width:400px;
+    height:350px;
+    
+  }
+  #Accesory{
+    
+    background-color:linear-gradient(#61ff9b 0%,#bf3636 100%);
+    
+    
+    
+  }
